@@ -1,4 +1,4 @@
-# Data-Professionals-Survey (plus Interactive Dashboard made with PowerBI
+# Data-Professionals-Survey (plus Interactive Dashboard made with PowerBI)
 
 ## Description
 This project uses real 2024 survey data from data professionals, sourced via GitHub. I used Power BI to practice data transformation and visualization, creating an interactive dashboard to explore industry trends in roles, tools, education, and compensation.
