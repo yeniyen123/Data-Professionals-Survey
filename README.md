@@ -4,7 +4,7 @@
 This project uses real 2024 survey data from data professionals, sourced via GitHub. I used Power BI to practice data transformation and visualization, creating an interactive dashboard to explore industry trends in roles, tools, education, and compensation.
 
 ## Project Objectives 
-- <a href="">Raw Dataset</a>
+- <a href="https://github.com/yeniyen123/Data-Professionals-Survey/blob/main/Raw%20Dataset.xlsx">Raw Dataset</a>
 - Explore the demographics, compensation, tools used, and career satisfaction of data professionals
 - Visualize relationships across roles, locations, and experience levels
 - Identify patterns based on salary, job title, country, and education
@@ -21,6 +21,8 @@ This project uses real 2024 survey data from data professionals, sourced via Git
 - Focused on a clean, minimal layout for clarity and usability of the interactive dashboard
   
 ## Dashboard and Insights
+![Dashboard Screenshot](https://github.com/user-attachments/assets/acc2ee87-dd30-4080-9ffd-4de0a3e8e2e0)
+
 - Responses were based from 630 data professionals
 - The average age of respondents is around 30
 - Most respondents were based in the United States, followed by Canada, the United Kingdom, and India
